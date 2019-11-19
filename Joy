@@ -1,0 +1,2 @@
+def fun():
+    print("Have a nice day!")
